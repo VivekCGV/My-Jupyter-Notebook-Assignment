@@ -1,2 +1,2 @@
 # My-Jupyter-Notebook-Assignment
-Jupyter notebook on IBM Watson Studio project
+Fibonacci Series on Jupyter Notebook
